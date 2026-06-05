@@ -60,22 +60,3 @@ public class JoaoMarcos {
 
 ---
 
-##  Estatísticas
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomarcosrd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/joaomarcosrd)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosrd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/joaomarcosrd)
-
-</div>
-
----
-
-<div align="center">
-
-*"O código é poesia escrita em lógica."*
-
-📍 Anápolis, Goiás, Brasil &nbsp;|&nbsp; 💼 Disponível para oportunidades
-
-</div>

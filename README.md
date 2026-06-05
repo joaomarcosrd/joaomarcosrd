@@ -1,16 +1,81 @@
-## Hi there 👋
+<img width="1198" height="617" alt="photo_2026-06-05_16-05-13" src="https://github.com/user-attachments/assets/e8705a49-3a28-41db-a0d2-283093f56f3f" /><div align="center">
 
-<!--
-**joaomarcosrd/joaomarcosrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+# João Marcos De Almeida Rodrigues
+
+### `< Desenvolvedor Backend />`
+
+**Java · SQL · Automação · JavaScript**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcos-de-almeida-rodriques-4980b835b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaomarcosrd)
+
+</div>
+
+---
+
+##  Sobre mim
+
+Olá! Sou **João Marcos**, Desenvolvedor Backend com foco em **Java**, **SQL** e **Automação**.  
+Estudante na **UniEVANGÉLICA - Universidade Evangélica de Goiás**, baseado em **Anápolis, GO, Brasil**.
+
+Apaixonado por construir soluções backend robustas e automatizar processos.  
+
+
+```java
+public class JoaoMarcos {
+    String  role       = "Desenvolvedor Backend";
+    String  education  = "UniEVANGÉLICA - Goiás";
+    String  location   = "Anápolis, GO, Brasil";
+    String[] stack     = { "Java", "SQL", "JavaScript" };
+    boolean openToWork = true;
+}
+```
+
+---
+
+##  Tecnologias
+
+| Backend | Banco de Dados | Frontend | Ferramentas |
+|:-------:|:--------------:|:--------:|:-----------:|
+| Java    | SQL            | JavaScript |   git     |
+| Spring  | PostgreSQL     | Node.js    | GitHub     |
+| Automação - N8N |           | —          | —          |
+
+---
+
+##  Projetos em Destaque
+
+###  [clone-tabnews](https://github.com/joaomarcosrd/clone-tabnews)
+> Projeto para treinar um projeto do começo ao fim — JavaScript
+
+###  [joaomarcosrd](https://github.com/joaomarcosrd/joaomarcosrd)
+> Repositório do perfil
+
+---
+
+##  Estatísticas
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomarcosrd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/joaomarcosrd)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosrd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/joaomarcosrd)
+
+</div>
+
+---
+
+<div align="center">
+
+*"O código é poesia escrita em lógica."*
+
+📍 Anápolis, Goiás, Brasil &nbsp;|&nbsp; 💼 Disponível para oportunidades
+
+</div>

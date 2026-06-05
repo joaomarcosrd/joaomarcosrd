@@ -32,7 +32,6 @@ Apaixonado por construir soluções backend robustas e automatizar processos.
 public class JoaoMarcos {
     String  role       = "Desenvolvedor Backend";
     String  education  = "UniEVANGÉLICA - Goiás";
-    String  location   = "Anápolis, GO, Brasil";
     String[] stack     = { "Java", "SQL", "JavaScript" };
     boolean openToWork = true;
 }

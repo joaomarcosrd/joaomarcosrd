@@ -23,7 +23,6 @@
 ##  Sobre mim
 
 Olá! Sou **João Marcos**, Desenvolvedor Backend com foco em **Java**, **SQL** e **Automação**.  
-Estudante na **UniEVANGÉLICA - Universidade Evangélica de Goiás**, baseado em **Anápolis, GO, Brasil**.
 
 Apaixonado por construir soluções backend robustas e automatizar processos.  
 
@@ -31,7 +30,6 @@ Apaixonado por construir soluções backend robustas e automatizar processos.
 ```java
 public class JoaoMarcos {
     String  role       = "Desenvolvedor Backend";
-    String  education  = "UniEVANGÉLICA - Goiás";
     String[] stack     = { "Java", "SQL", "JavaScript" };
     boolean openToWork = true;
 }
@@ -44,8 +42,8 @@ public class JoaoMarcos {
 | Backend | Banco de Dados | Frontend | Ferramentas |
 |:-------:|:--------------:|:--------:|:-----------:|
 | Java    | SQL            | JavaScript |   git     |
-| Spring  | PostgreSQL     | Node.js    | GitHub     |
-| Automação - N8N |           | —          | —          |
+| Node.js   | PostgreSQL   | React      | GitHub    |
+| Automação - N8N |        | —          | —         |
 
 ---
 

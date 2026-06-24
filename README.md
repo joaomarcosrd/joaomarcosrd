@@ -1,5 +1,4 @@
-<!-- BANNER — keep your existing image here -->
-<img src="https://raw.githubusercontent.com/joaomarcosrd/joaomarcosrd/main/banner.png" alt="João Marcos — Backend Developer" width="100%" />
+alt="João Marcos — Backend Developer" width="100%" />
 
 <div align="center">
 

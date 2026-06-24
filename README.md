@@ -1,5 +1,5 @@
 <!-- BANNER — keep your existing image here -->
-<img src="./banner.png" alt="João Marcos — Backend Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/joaomarcosrd/joaomarcosrd/main/banner.png" alt="João Marcos — Backend Developer" width="100%" />
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaomarcosrd-FF6A3D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-marcos-de-almeida-rodrigues-4980b835b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaomarcosrd-FF6A3D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-marcos-de-almeida-rodriques-4980b835b/)
 [![Website](https://img.shields.io/badge/Website-joaomarcosdev.com.br-FCE244?style=for-the-badge&logo=googlechrome&logoColor=1C1A1A)](https://joaomarcosdev.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-joaomarcosrd-F3E4D1?style=for-the-badge&logo=github&logoColor=1C1A1A)](https://github.com/joaomarcosrd)
 
@@ -90,7 +90,7 @@ I document my learning journey in two series, published on LinkedIn:
 
 > *Quarterly checkpoints mark each project's evolution — no artificial endings.*
 
-📎 [Follow along on LinkedIn](https://linkedin.com/in/jo%C3%A3o-marcos-de-almeida-rodrigues-4980b835b)
+📎 [Follow along on LinkedIn](https://linkedin.com/in/jo%C3%A3o-marcos-de-almeida-rodriques-4980b835b/)
 
 ---
 

@@ -1,4 +1,4 @@
-alt="João Marcos — Backend Developer" width="100%" />
+
 
 <div align="center">
 
